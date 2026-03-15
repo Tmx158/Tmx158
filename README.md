@@ -1,8 +1,11 @@
-- 👋 Hi, I’m TengStar
-- 👀 I’m currently learning Multivariate time series
-- 📫 My usual email address is Tengstar@163.com
-
+👋 Hi, I’m TengStar
+🧠 Master's Research: Deep Learning & Multivariate Time Series
+💼 Working at Tencent TEG | AI Application & System Development
+🔭 Focus: AIGC Application • Large Model Engineering • AI Infra
+🌊 Tech Stack: Python • Java • Go • PyTorch • TensorFlow
+📫 Reach me: tengstar@163.com
+---
+⚡ Building intelligent systems that understand time & data.
 <!---
-Tmx158/Tmx158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Tmx158/Tmx158 is a ✨ special ✨ repository
 --->
