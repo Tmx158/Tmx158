@@ -7,4 +7,4 @@
 
 ---
 
-⚡ Building intelligent systems that understand time & data.
+
